@@ -1,0 +1,7 @@
+Sorteio Dev in Cachu 2012
+
+Projeto simples que contém script utilizado para sorteios no Dev in Cachu
+2012.
+
+O script recebe um arquivo com uma lista de nomes e grava um arquivo de
+sorteados, para garantir que um mesmo nome não é sorteado duas vezes.
